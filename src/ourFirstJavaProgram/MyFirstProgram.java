@@ -24,6 +24,9 @@ public class MyFirstProgram {
 		long phoneNumber = in.nextLong();
 		
 		
+
+
+
 		System.out.println("You full Name is "+firstName + " " + lastName);
 		System.out.println("Your height is : "+ height);
 		System.out.println("Your contact number is " + phoneNumber);
